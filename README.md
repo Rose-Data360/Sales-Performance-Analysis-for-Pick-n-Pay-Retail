@@ -25,3 +25,16 @@ Pick 'n Pay Retail aims to enhance its understanding of sales performance across
 The Pick ‘n Pay data model follows a star schema structure, with the Order Fact table (Order ID, Customer ID, Product ID, Channel, Order Quantity ,Order Date, Profit, Reginal ID, Currency Code), at the center, linking to key dimension tables (Customer-Dm, Product-Dm, Location-Dm, and Calendar-Dm) via primary keys. This design enables efficient filtering and analysis of sales data by customer, product, location, and time, providing powerful insights such as year-over-year trends, regional performance, and product-level profitability.
 
 
+
+![Screenshot 2025-06-19 230404](https://github.com/user-attachments/assets/6be0a340-cd0b-46a9-b211-d9ea630d5e97)
+
+# VISUALIZATION
+- KPI'S
+- Bar Chart
+- Line Chart
+
+# DATA ANALYSIS
+
+KPI'S
+
+
