@@ -38,3 +38,4 @@ The Pick ‘n Pay data model follows a star schema structure, with the Order Fac
 KPI'S
 
 
+
