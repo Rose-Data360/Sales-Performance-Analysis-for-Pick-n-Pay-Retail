@@ -37,5 +37,13 @@ The Pick ‘n Pay data model follows a star schema structure, with the Order Fac
 
 KPI'S
 
+This visualization compares Pick 'n Pick Retail's monthly sales trends to the prior year (PY) and displays key performance indicators (KPIs) for total sales, total profit, total product, and order quantity. We had $188 million in total sales, which was 21.8% more than the previous year.It then made $70 million in profit, which is 22% more than the previous year and indicates that we are not just selling more but also operating more profitably. Despite the fact that 82,000 individual goods were sold, this indicates that there was significant product mobility.
+Since we are now monitoring 14 essential products, it is simple to concentrate on the top-selling items.
 
 
+![Screenshot 2025-06-20 071657](https://github.com/user-attachments/assets/00f8ac73-1eb0-45b2-9233-a1120e953646)
+
+Bar Chart
+
+This bar graph presents a comparison of revenue across three different sales channels. Wholesale shows the highest performance with 0.1 billion (bn), making it the most dominant channel among the three. Distributor: Second highest, but noticeably longer than Export, indicating a moderate contribution to the overall sales or revenue. Export performs the lowest.
+ Showing sales under 0.05 billion.
