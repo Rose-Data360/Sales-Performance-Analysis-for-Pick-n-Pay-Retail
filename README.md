@@ -45,5 +45,14 @@ Since we are now monitoring 14 essential products, it is simple to concentrate o
 
 Bar Chart
 
-This bar graph presents a comparison of revenue across three different sales channels. Wholesale shows the highest performance with 0.1 billion (bn), making it the most dominant channel among the three. Distributor: Second highest, but noticeably longer than Export, indicating a moderate contribution to the overall sales or revenue. Export performs the lowest.
- Showing sales under 0.05 billion.
+This bar graph presents a comparison of revenue across three different sales channels.The Wholesale channel generated 101 million, accounting for approximately 53.7% of total revenue from the top three channels, confirming its role as the dominant force in sales strategy. Meanwhile, the Distributors channel contributed 59 million, accounting for approximately 31.4% of the total, positioning them as a strong second pillar. The Export channel, although smaller at 28 million, representing 14.9%, is a key area for strategic growth and diversification.
+
+
+
+
+![Screenshot 2025-06-25 153744](https://github.com/user-attachments/assets/c3600f10-9e87-44c0-94fa-2264588c915e)
+
+The top four cities, Hamilton, Waitakere, Christchurch, and Manukau, collectively contribute over 53% of total revenue across the top 10 cities, highlighting them as the primary revenue centers. Meanwhile, cities like Whangarei and Dunedin, though smaller in contribution, may represent opportunities for growth or targeted marketing efforts.
+ 
+
+ 
