@@ -68,5 +68,14 @@ The revenue distribution among the top 5 customers is highly balanced, with no s
 
 
 
+
+![Screenshot 2025-06-26 011909](https://github.com/user-attachments/assets/b6422377-0502-4576-8cce-91cfd6f3e6e9)
+
+Line Chart
+
+The monthly trend varies significantly throughout the year. The highest figure was recorded in March, while the lowest was in November. There were large rises in March (15.9%) and August (7.3%), as well as sharp declines in April (16.2%) and November (12.8%). Overall, the trend was highly turbulent, with alternating gains and falls that indicated inconsistency over the months.
+
+
+
  
 
