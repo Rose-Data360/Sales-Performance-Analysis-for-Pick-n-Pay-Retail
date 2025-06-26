@@ -91,3 +91,25 @@ This interactive Power BI dashboard was developed to analyze and communicate key
  
 ![Screenshot 2025-06-26 013056](https://github.com/user-attachments/assets/5da9e462-d333-4b28-ab3e-a065ef927885)
 
+
+## RECOMMENDATIONS
+
+- Expand sales efforts in top-performing cities: Hamilton, Waitakere, and Christchurch.
+
+Investigate the sharp sales drop in November, the lowest-performing month of the year.
+
+Possible causes include seasonal slowdowns, stock availability issues, or reduced marketing activity.
+
+Implement targeted Q4 promotions to counteract the November dip and boost year-end performance.
+
+Optimize inventory planning ahead of Q4 to ensure high-demand products are well-stocked.
+
+Leverage high-value customers from the Top 5 Customers list with loyalty rewards or exclusive offers.
+
+Capitalize on the top-performing sales channel, such as Wholesale, which generated $ 101M in sales, by strengthening B2B relationships and offering volume-based incentives.
+
+
+
+
+
+
