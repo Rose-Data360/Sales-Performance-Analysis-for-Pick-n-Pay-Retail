@@ -85,5 +85,9 @@ The monthly trend varies significantly throughout the year. The highest figure w
 
 This interactive Power BI dashboard was developed to analyze and communicate key sales metrics for Pick 'n Pay. As a Data Analyst, I designed it to present total sales (188M), profit (70M), and order volume (82K), highlighting a 21.83% year over year increase in sales. The dashboard features a dynamic monthly trend analysis, as well as top-performing cities, channels, and customers, all supported by slicers for real-time filtering by product, customer, channel, city, and day. This project showcases my proficiency in Power BI, data modeling, DAX, and visual storytelling, enabling me to deliver meaningful insights that drive informed business decisions.
 
+
+
+
  
+![Screenshot 2025-06-26 013056](https://github.com/user-attachments/assets/5da9e462-d333-4b28-ab3e-a065ef927885)
 
