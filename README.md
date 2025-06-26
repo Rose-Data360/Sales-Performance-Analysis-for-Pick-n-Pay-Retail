@@ -15,7 +15,7 @@
 ## PROBLEM STATEMENT
 Pick 'n Pay Retail aims to enhance its understanding of sales performance across various products by analyzing key metrics, including total sales, profit margins, and order trends.The main challenge is to compare year-over-year performance, identify top-performing products and cities, and track customer preferences effectively.Effective decision-making about consumer behaviour, product performance, and geographical patterns is hampered by a lack of comprehensive understanding of these trends. Pick 'n Pay Retail can address underperforming cities, learn more about customer behaviour, product performance, regional trends, and direct future investments in important product categories by carefully examining these metrics. This will help the company make better, quicker business decisions across channels and regions.
 
-# AIM OF THE PROJECT
+## AIM OF THE PROJECT
 - Give an overview of year-over-year sales performance, emphasising top-performing products and cities, and track customer preferences
 - Analyze sales trends to identify high-performing and underperforming cities.
 - Use Power BI to visualise sales KPIs and trends and give decision makers with actionable information
