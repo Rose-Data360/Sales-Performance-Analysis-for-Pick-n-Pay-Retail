@@ -45,14 +45,28 @@ Since we are now monitoring 14 essential products, it is simple to concentrate o
 
 Bar Chart
 
-This bar graph presents a comparison of revenue across three different sales channels.The Wholesale channel generated 101 million, accounting for approximately 53.7% of total revenue from the top three channels, confirming its role as the dominant force in sales strategy. Meanwhile, the Distributors channel contributed 59 million, accounting for approximately 31.4% of the total, positioning them as a strong second pillar. The Export channel, although smaller at 28 million, representing 14.9%, is a key area for strategic growth and diversification.
+This bar graph presents a comparison of revenue across three different sales channels.The Wholesale channel generated $101 million, accounting for approximately 53.7% of total revenue from the top three channels, confirming its role as the dominant force in sales strategy. Meanwhile, the Distributors channel contributed 59 million, accounting for approximately 31.4% of the total, positioning them as a strong second pillar. The Export channel, although smaller at $28 million, representing 14.9%, is a key area for strategic growth and diversification.
 
 
 
 
-![Screenshot 2025-06-25 153744](https://github.com/user-attachments/assets/c3600f10-9e87-44c0-94fa-2264588c915e)
+![Screenshot 2025-06-26 011811](https://github.com/user-attachments/assets/4a9c1cae-2498-4498-85eb-3e32ed42b569)
+
 
 The top four cities, Hamilton, Waitakere, Christchurch, and Manukau, collectively contribute over 53% of total revenue across the top 10 cities, highlighting them as the primary revenue centers. Meanwhile, cities like Whangarei and Dunedin, though smaller in contribution, may represent opportunities for growth or targeted marketing efforts.
- 
+
+
 
  
+
+ ![Screenshot 2025-06-25 142449](https://github.com/user-attachments/assets/4b0e37ee-1f9e-448d-b392-e0e845a37e72)
+
+
+ Medline and Apollo Ltd each generated $4.8 million, contributing approximately 20.5% of the total top customer revenue individually.
+Pure Group, Apotheca, Ltd, and OUR Ltd each brought in $4.6 million, making up around 19.7% of the total revenue per customer.
+The revenue distribution among the top 5 customers is highly balanced, with no single customer contributing more than 20.5%. This suggests a healthy, diversified customer base with reduced dependency on any one account.
+
+
+
+ 
+
